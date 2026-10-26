@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-26",
+  "tracked_baseline_count": 204,
+  "tracked_files_changed_since_round_start": [],
+  "missing_local_links": [],
+  "new_model_experiments": false,
+  "checks": "static document/source checks only; no benchmark execution",
+  "artifacts": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "97bbe948105537f634cfbf7b6199b3987f20269fd25755e462876568425276e3",
+      "bytes": 1729
+    },
+    {
+      "path": "baseline-sha256.json",
+      "sha256": "ed4dd28de9c2a85ab15896c9d57c6ef50f50dc95949e876f65057851380094ea",
+      "bytes": 24796
+    },
+    {
+      "path": "evidence/metrics/code-excerpts.md",
+      "sha256": "44ce6760aefba1dff6182cad7da8445103da1cdff7144ec3c302452e3987e944",
+      "bytes": 26503
+    },
+    {
+      "path": "evidence/root/code-excerpts.md",
+      "sha256": "ec658d74ae0f70f58f4fd5e6a703eba95441d32a5aad26b673d061f4121cc39d",
+      "bytes": 33126
+    },
+    {
+      "path": "evidence/root/dataset-observations.md",
+      "sha256": "cd3dbd4688bd485d9e735ef254bfe35ad538e89a1e0e3309bf1f85c37ea14958",
+      "bytes": 3759
+    },
+    {
+      "path": "evidence/root/source-manifest.json",
+      "sha256": "abb1d92985948559d400e0f93ce1d00f256c8f4595042b6997dacf335301a029",
+      "bytes": 4572
+    },
+    {
+      "path": "metrics-review.md",
+      "sha256": "948238447081faf63c8501b8bf8a1996763fb90f537c960af048804b42599b2f",
+      "bytes": 11753
+    },
+    {
+      "path": "RUN.md",
+      "sha256": "8b05f14d7a3d7b7fc3454bc6fe186bc3cfe8612642e25d0b83f84d9c0652557b",
+      "bytes": 12707
+    }
+  ],
+  "link_check_scope": "rendered prose links; fenced source excerpts excluded"
+}

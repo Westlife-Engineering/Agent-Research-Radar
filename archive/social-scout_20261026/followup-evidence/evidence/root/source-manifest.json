@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "lhannnn/agentic-abstention",
+    "path": "web/scripts/webshop_instruction_set_build_pruned_env.py",
+    "commit": "add5cb4fa5da98e49dd56f017a2e08768f693184",
+    "git_blob_sha": "4d6b617d7b8d57465a09166754c416bef9c2c1d0",
+    "line_start": 207,
+    "line_end": 222,
+    "url": "https://github.com/lhannnn/agentic-abstention/blob/add5cb4fa5da98e49dd56f017a2e08768f693184/web/scripts/webshop_instruction_set_build_pruned_env.py#L207-L222"
+  },
+  {
+    "repo": "lhannnn/agentic-abstention",
+    "path": "terminal/data/delayed/manifest.accepted_delayed_21.jsonl",
+    "commit": "add5cb4fa5da98e49dd56f017a2e08768f693184",
+    "git_blob_sha": "f9e02eb9d602a28cb73fa02abf78fcfefa44392c",
+    "line_start": 1,
+    "line_end": 21,
+    "url": "https://github.com/lhannnn/agentic-abstention/blob/add5cb4fa5da98e49dd56f017a2e08768f693184/terminal/data/delayed/manifest.accepted_delayed_21.jsonl#L1-L21"
+  },
+  {
+    "repo": "lhannnn/agentic-abstention",
+    "path": "terminal/data/delayed/specs/gcode-to-text__delayed_observation.json",
+    "commit": "add5cb4fa5da98e49dd56f017a2e08768f693184",
+    "git_blob_sha": "ceb045a8aa1577851902aec1f9483071c65383a5",
+    "line_start": 1,
+    "line_end": 66,
+    "url": "https://github.com/lhannnn/agentic-abstention/blob/add5cb4fa5da98e49dd56f017a2e08768f693184/terminal/data/delayed/specs/gcode-to-text__delayed_observation.json#L1-L66"
+  },
+  {
+    "repo": "AntiQuality/agentabstain",
+    "path": "abstention_factory/runtime/base.py",
+    "commit": "cfc3faf7ab1cfd4892cde1158d6e43b2f312ddc3",
+    "git_blob_sha": "307e43ca6f43dcb7deb9b7d27ec98b85df444cfc",
+    "line_start": 119,
+    "line_end": 141,
+    "url": "https://github.com/AntiQuality/agentabstain/blob/cfc3faf7ab1cfd4892cde1158d6e43b2f312ddc3/abstention_factory/runtime/base.py#L119-L141"
+  },
+  {
+    "repo": "AntiQuality/agentabstain",
+    "path": "src/runtime/task_mcp_server.py",
+    "commit": "cfc3faf7ab1cfd4892cde1158d6e43b2f312ddc3",
+    "git_blob_sha": "e4a6f192d7fc302a627c0065ff208cbd481e1cab",
+    "line_start": 68,
+    "line_end": 76,
+    "url": "https://github.com/AntiQuality/agentabstain/blob/cfc3faf7ab1cfd4892cde1158d6e43b2f312ddc3/src/runtime/task_mcp_server.py#L68-L76"
+  },
+  {
+    "repo": "AntiQuality/agentabstain",
+    "path": "eval/evaluators/commit_check.py",
+    "commit": "cfc3faf7ab1cfd4892cde1158d6e43b2f312ddc3",
+    "git_blob_sha": "ce4f5a91a2e17ce009bc7637a9602498f3c328c8",
+    "line_start": 25,
+    "line_end": 58,
+    "url": "https://github.com/AntiQuality/agentabstain/blob/cfc3faf7ab1cfd4892cde1158d6e43b2f312ddc3/eval/evaluators/commit_check.py#L25-L58"
+  },
+  {
+    "repo": "AntiQuality/agentabstain",
+    "path": "eval/evaluators/response_llm_judge.py",
+    "commit": "cfc3faf7ab1cfd4892cde1158d6e43b2f312ddc3",
+    "git_blob_sha": "af7c6b0f73dd0dc735516fd61b63dca365b3cce3",
+    "line_start": 267,
+    "line_end": 325,
+    "url": "https://github.com/AntiQuality/agentabstain/blob/cfc3faf7ab1cfd4892cde1158d6e43b2f312ddc3/eval/evaluators/response_llm_judge.py#L267-L325"
+  },
+  {
+    "repo": "lhannnn/HERA-Bench",
+    "path": "harnesses/final/src/harness_entry.py",
+    "commit": "d1989100c8ade06464026fa5630df2d52a05b17d",
+    "git_blob_sha": "fb7d1112176b6142d89d7805db38d9b55d8ee565",
+    "line_start": 623,
+    "line_end": 655,
+    "url": "https://github.com/lhannnn/HERA-Bench/blob/d1989100c8ade06464026fa5630df2d52a05b17d/harnesses/final/src/harness_entry.py#L623-L655"
+  },
+  {
+    "repo": "lhannnn/HERA-Bench",
+    "path": "harnesses/final/src/harness_entry.py",
+    "commit": "d1989100c8ade06464026fa5630df2d52a05b17d",
+    "git_blob_sha": "fb7d1112176b6142d89d7805db38d9b55d8ee565",
+    "line_start": 1023,
+    "line_end": 1051,
+    "url": "https://github.com/lhannnn/HERA-Bench/blob/d1989100c8ade06464026fa5630df2d52a05b17d/harnesses/final/src/harness_entry.py#L1023-L1051"
+  },
+  {
+    "repo": "lhannnn/HERA-Bench",
+    "path": "hera_runner/score.py",
+    "commit": "d1989100c8ade06464026fa5630df2d52a05b17d",
+    "git_blob_sha": "0fd4fc79be7e6bc28bcde0172a528eab00028567",
+    "line_start": 25,
+    "line_end": 40,
+    "url": "https://github.com/lhannnn/HERA-Bench/blob/d1989100c8ade06464026fa5630df2d52a05b17d/hera_runner/score.py#L25-L40"
+  },
+  {
+    "repo": "lhannnn/HERA-Bench",
+    "path": "dataset.lock.json",
+    "commit": "d1989100c8ade06464026fa5630df2d52a05b17d",
+    "git_blob_sha": "fabb0134b722b369dd195eb71ea7bf11d7eddc1b",
+    "line_start": 1,
+    "line_end": 7,
+    "url": "https://github.com/lhannnn/HERA-Bench/blob/d1989100c8ade06464026fa5630df2d52a05b17d/dataset.lock.json#L1-L7"
+  }
+]

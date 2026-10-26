@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-26",
+  "status": "历史试跑，不作为当前执行规则",
+  "source_root": "C:\\Users\\ZENGZX\\Desktop\\Long-Horizon-Agents\\workflow-trial\\social-scout_20261026",
+  "archive_root": "C:\\Users\\ZENGZX\\Desktop\\Agent-Research-Radar\\archive\\social-scout_20261026",
+  "original_file_count": 12,
+  "original_total_bytes": 159927.0,
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 1885,
+      "sha256": "ee3d09c5822e4e4786adf11700a976999929035d7e9a3d97a12f7b29f63a1b36"
+    },
+    {
+      "path": "followup-evidence/AGENTS.md",
+      "bytes": 1729,
+      "sha256": "97bbe948105537f634cfbf7b6199b3987f20269fd25755e462876568425276e3"
+    },
+    {
+      "path": "followup-evidence/baseline-sha256.json",
+      "bytes": 24796,
+      "sha256": "ed4dd28de9c2a85ab15896c9d57c6ef50f50dc95949e876f65057851380094ea"
+    },
+    {
+      "path": "followup-evidence/evidence/metrics/code-excerpts.md",
+      "bytes": 26503,
+      "sha256": "44ce6760aefba1dff6182cad7da8445103da1cdff7144ec3c302452e3987e944"
+    },
+    {
+      "path": "followup-evidence/evidence/root/code-excerpts.md",
+      "bytes": 33126,
+      "sha256": "ec658d74ae0f70f58f4fd5e6a703eba95441d32a5aad26b673d061f4121cc39d"
+    },
+    {
+      "path": "followup-evidence/evidence/root/dataset-observations.md",
+      "bytes": 3759,
+      "sha256": "cd3dbd4688bd485d9e735ef254bfe35ad538e89a1e0e3309bf1f85c37ea14958"
+    },
+    {
+      "path": "followup-evidence/evidence/root/source-manifest.json",
+      "bytes": 4572,
+      "sha256": "abb1d92985948559d400e0f93ce1d00f256c8f4595042b6997dacf335301a029"
+    },
+    {
+      "path": "followup-evidence/metrics-review.md",
+      "bytes": 11753,
+      "sha256": "948238447081faf63c8501b8bf8a1996763fb90f537c960af048804b42599b2f"
+    },
+    {
+      "path": "followup-evidence/RUN.md",
+      "bytes": 12707,
+      "sha256": "8b05f14d7a3d7b7fc3454bc6fe186bc3cfe8612642e25d0b83f84d9c0652557b"
+    },
+    {
+      "path": "followup-evidence/validation.json",
+      "bytes": 1668,
+      "sha256": "93ceb664645f28456566771b9b750d7316ab0e2c936ddc4d7b1041041205c55f"
+    },
+    {
+      "path": "RUN.md",
+      "bytes": 12277,
+      "sha256": "c59720552bbe666ac03e6a14701627596d8d1e6185caab8d3f16899e2242a741"
+    },
+    {
+      "path": "search-index.json",
+      "bytes": 25152,
+      "sha256": "d9f760a6ab1ffc12c24f36339500cf6e81948723aa54872c53a5a8b581185f30"
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "date": "2026-10-26",
+  "purpose": "隔离试运行检索索引，不是已读来源清单",
+  "limits": "仅保存标题、ID与出处；默认综合排序不是时间序列。Agentic Abstention 最新查询超时，另一次相同初始查询用于恢复截断结果。未保存访问令牌、账户信息或评论用户信息。",
+  "searches": [
+    {
+      "query": "agent abstention",
+      "sort": "综合",
+      "results": [
+        {
+          "id": "6add956d0000000025021df1",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/6add956d0000000025021df1"
+        },
+        {
+          "id": "6ade1725000000002403a5e7",
+          "title": "关于Agentic Abstention，一点思考",
+          "url": "https://www.xiaohongshu.com/explore/6ade1725000000002403a5e7"
+        },
+        {
+          "id": "6ad8e614000000002c034bcd",
+          "title": "NeurIPS撞车",
+          "url": "https://www.xiaohongshu.com/explore/6ad8e614000000002c034bcd"
+        },
+        {
+          "id": "6a43dff3000000001603c825",
+          "title": "为什么你的 Agent 越努力，越可能浪费钱？",
+          "url": "https://www.xiaohongshu.com/explore/6a43dff3000000001603c825"
+        },
+        {
+          "id": "6a4b190100000000060359ec",
+          "title": "华盛顿大学团队：让Agent学会及时停手",
+          "url": "https://www.xiaohongshu.com/explore/6a4b190100000000060359ec"
+        },
+        {
+          "id": "6a488dfd0000000011007f56",
+          "title": "智能体何时该停手并承认任务不可完成",
+          "url": "https://www.xiaohongshu.com/explore/6a488dfd0000000011007f56"
+        },
+        {
+          "id": "6a5760c4000000002201b4c9",
+          "title": "Agentstain: LLM代理知道什么时候不行动？",
+          "url": "https://www.xiaohongshu.com/explore/6a5760c4000000002201b4c9"
+        },
+        {
+          "id": "6a9c7ef500000000270145e7",
+          "title": "Agent自我进化论文泛滥了，求推荐和避雷论文",
+          "url": "https://www.xiaohongshu.com/explore/6a9c7ef500000000270145e7"
+        },
+        {
+          "id": "6a4cd4fc0000000006030b9b",
+          "title": "ICML 2026 大量LLMs相关Insights总结（一）",
+          "url": "https://www.xiaohongshu.com/explore/6a4cd4fc0000000006030b9b"
+        },
+        {
+          "id": "6ad38b4c000000001a021f28",
+          "title": "Agent开始自己改自己了",
+          "url": "https://www.xiaohongshu.com/explore/6ad38b4c000000001a021f28"
+        },
+        {
+          "id": "6a4e7dff0000000021021987",
+          "title": "建议关注下harness自进化这个方向",
+          "url": "https://www.xiaohongshu.com/explore/6a4e7dff0000000021021987"
+        },
+        {
+          "id": "6a8db854000000002c03e6b5",
+          "title": "求求了",
+          "url": "https://www.xiaohongshu.com/explore/6a8db854000000002c03e6b5"
+        },
+        {
+          "id": "6acaf5dd000000001b0312f0",
+          "title": "主要最近想做RSI……",
+          "url": "https://www.xiaohongshu.com/explore/6acaf5dd000000001b0312f0"
+        },
+        {
+          "id": "6ad708bf000000002900dd98",
+          "title": "刚看到一个特有想象力的 AI 项目。",
+          "url": "https://www.xiaohongshu.com/explore/6ad708bf000000002900dd98"
+        },
+        {
+          "id": "6abf70ea0000000014001382",
+          "title": "大家好我是MSRA高级研究员杨一帆",
+          "url": "https://www.xiaohongshu.com/explore/6abf70ea0000000014001382"
+        },
+        {
+          "id": "6a478bf10000000015027d28",
+          "title": "Agent停手：何时别行动",
+          "url": "https://www.xiaohongshu.com/explore/6a478bf10000000015027d28"
+        },
+        {
+          "id": "6ad20f70000000000b00732f",
+          "title": "自进化RSI近期总结（附点评）",
+          "url": "https://www.xiaohongshu.com/explore/6ad20f70000000000b00732f"
+        },
+        {
+          "id": "6ad78c1c000000002802506a",
+          "title": "分享一下共一发的运筹 Agent bench🥳",
+          "url": "https://www.xiaohongshu.com/explore/6ad78c1c000000002802506a"
+        },
+        {
+          "id": "6ad5ac14000000003100927e",
+          "title": "ICLR desk reject 没招了",
+          "url": "https://www.xiaohongshu.com/explore/6ad5ac14000000003100927e"
+        },
+        {
+          "id": "6ad048fb0000000018014b7a",
+          "title": "Agent自进化｜现在AI智能体到底在进化啥？",
+          "url": "https://www.xiaohongshu.com/explore/6ad048fb0000000018014b7a"
+        }
+      ]
+    },
+    {
+      "query": "agent 停手",
+      "sort": "综合",
+      "results": [
+        {
+          "id": "6a8fea9b000000002003339c",
+          "title": "Agent何时该停手",
+          "url": "https://www.xiaohongshu.com/explore/6a8fea9b000000002003339c"
+        },
+        {
+          "id": "6ad8e614000000002c034bcd",
+          "title": "NeurIPS撞车",
+          "url": "https://www.xiaohongshu.com/explore/6ad8e614000000002c034bcd"
+        },
+        {
+          "id": "6a4b190100000000060359ec",
+          "title": "华盛顿大学团队：让Agent学会及时停手",
+          "url": "https://www.xiaohongshu.com/explore/6a4b190100000000060359ec"
+        },
+        {
+          "id": "6ad394d2000000001c02dd6e",
+          "title": "模型最该学的不是答对，是认输",
+          "url": "https://www.xiaohongshu.com/explore/6ad394d2000000001c02dd6e"
+        },
+        {
+          "id": "6ac9f36a00000000180389e2",
+          "title": "Ai能力越强，越要会停",
+          "url": "https://www.xiaohongshu.com/explore/6ac9f36a00000000180389e2"
+        },
+        {
+          "id": "6a7fb8a90000000033011c1e",
+          "title": "Agent怎么知道什么时候该停下来？",
+          "url": "https://www.xiaohongshu.com/explore/6a7fb8a90000000033011c1e"
+        },
+        {
+          "id": "6ace61eb0000000018017caf",
+          "title": "Agent刹不住车",
+          "url": "https://www.xiaohongshu.com/explore/6ace61eb0000000018017caf"
+        },
+        {
+          "id": "6addf728000000002403de1c",
+          "title": "AI Agent越权：43次里9次",
+          "url": "https://www.xiaohongshu.com/explore/6addf728000000002403de1c"
+        },
+        {
+          "id": "6adeaa1d000000001803b9a1",
+          "title": "Claude明知有害，还停不下来",
+          "url": "https://www.xiaohongshu.com/explore/6adeaa1d000000001803b9a1"
+        },
+        {
+          "id": "6ade073a000000003300dce4",
+          "title": "Agent 面试|每日一题（Day 23）",
+          "url": "https://www.xiaohongshu.com/explore/6ade073a000000003300dce4"
+        },
+        {
+          "id": "6a966a01000000002502f965",
+          "title": "Agent什么时候必须停手？",
+          "url": "https://www.xiaohongshu.com/explore/6a966a01000000002502f965"
+        },
+        {
+          "id": "6adeb474000000001603fce2",
+          "title": "给Agent开网前，先看这个案例",
+          "url": "https://www.xiaohongshu.com/explore/6adeb474000000001603fce2"
+        },
+        {
+          "id": "6ade1d9e000000002c010979",
+          "title": "[Agents] Agents需要学会停止和拒绝",
+          "url": "https://www.xiaohongshu.com/explore/6ade1d9e000000002c010979"
+        },
+        {
+          "id": "6acdf11b000000001a02966d",
+          "title": "AI越能干，越要学会停手",
+          "url": "https://www.xiaohongshu.com/explore/6acdf11b000000001a02966d"
+        },
+        {
+          "id": "6aceede50000000012037780",
+          "title": "3K 条轨迹，凭什么打赢 49 万条",
+          "url": "https://www.xiaohongshu.com/explore/6aceede50000000012037780"
+        },
+        {
+          "id": "6ab99ae40000000014000eab",
+          "title": "给Agent先写停手线",
+          "url": "https://www.xiaohongshu.com/explore/6ab99ae40000000014000eab"
+        },
+        {
+          "id": "6aae382c000000001001de24",
+          "title": "我给 Pi 接上 TypeSafe：Agent知道何时停手",
+          "url": "https://www.xiaohongshu.com/explore/6aae382c000000001001de24"
+        },
+        {
+          "id": "6a488dfd0000000011007f56",
+          "title": "智能体何时该停手并承认任务不可完成",
+          "url": "https://www.xiaohongshu.com/explore/6a488dfd0000000011007f56"
+        },
+        {
+          "id": "6ab61f81000000001402da03",
+          "title": "Agent为什么会自己停下来",
+          "url": "https://www.xiaohongshu.com/explore/6ab61f81000000001402da03"
+        },
+        {
+          "id": "6a9c7ef500000000270145e7",
+          "title": "Agent自我进化论文泛滥了，求推荐和避雷论文",
+          "url": "https://www.xiaohongshu.com/explore/6a9c7ef500000000270145e7"
+        }
+      ]
+    },
+    {
+      "query": "abstention 质疑",
+      "sort": "综合",
+      "results": [
+        {
+          "id": "6ade1725000000002403a5e7",
+          "title": "关于Agentic Abstention，一点思考",
+          "url": "https://www.xiaohongshu.com/explore/6ade1725000000002403a5e7"
+        },
+        {
+          "id": "6ad8e614000000002c034bcd",
+          "title": "NeurIPS撞车",
+          "url": "https://www.xiaohongshu.com/explore/6ad8e614000000002c034bcd"
+        },
+        {
+          "id": "6a0681e1000000003700c3ef",
+          "title": "论文出现明显AI痕迹，将被arXiv封禁1年",
+          "url": "https://www.xiaohongshu.com/explore/6a0681e1000000003700c3ef"
+        },
+        {
+          "id": "6a5760c4000000002201b4c9",
+          "title": "Agentstain: LLM代理知道什么时候不行动？",
+          "url": "https://www.xiaohongshu.com/explore/6a5760c4000000002201b4c9"
+        },
+        {
+          "id": "6a8edb4a0000000021027d83",
+          "title": "reddit|数据造假后论文发表了，有些害怕",
+          "url": "https://www.xiaohongshu.com/explore/6a8edb4a0000000021027d83"
+        },
+        {
+          "id": "6a81b34b000000002202cc7b",
+          "title": "Agentic RL reward不收敛",
+          "url": "https://www.xiaohongshu.com/explore/6a81b34b000000002202cc7b"
+        },
+        {
+          "id": "6ad1f603000000001a029efc",
+          "title": "误审理论文章",
+          "url": "https://www.xiaohongshu.com/explore/6ad1f603000000001a029efc"
+        },
+        {
+          "id": "6a488dfd0000000011007f56",
+          "title": "智能体何时该停手并承认任务不可完成",
+          "url": "https://www.xiaohongshu.com/explore/6a488dfd0000000011007f56"
+        },
+        {
+          "id": "6a96ff45000000002802df76",
+          "title": "人的大脑需要多聪明才可以提出这种假设",
+          "url": "https://www.xiaohongshu.com/explore/6a96ff45000000002802df76"
+        },
+        {
+          "id": "6aa7a1410000000026022306",
+          "title": "NMI | LLM知道自己该不该回答吗？",
+          "url": "https://www.xiaohongshu.com/explore/6aa7a1410000000026022306"
+        },
+        {
+          "id": "690e9c44000000000703b921",
+          "title": "不会再投AAAI😁",
+          "url": "https://www.xiaohongshu.com/explore/690e9c44000000000703b921"
+        },
+        {
+          "id": "69fa1b4b000000002202a1d7",
+          "title": "科研人员可以暂停对AI的焦虑了",
+          "url": "https://www.xiaohongshu.com/explore/69fa1b4b000000002202a1d7"
+        },
+        {
+          "id": "6ab605590000000018017fc0",
+          "title": "aaai 2027第二轮 10进4",
+          "url": "https://www.xiaohongshu.com/explore/6ab605590000000018017fc0"
+        },
+        {
+          "id": "6a4b190100000000060359ec",
+          "title": "华盛顿大学团队：让Agent学会及时停手",
+          "url": "https://www.xiaohongshu.com/explore/6a4b190100000000060359ec"
+        },
+        {
+          "id": "69f75080000000001b02239b",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/69f75080000000001b02239b"
+        },
+        {
+          "id": "6ab62c7a000000001b02d08b",
+          "title": "为什么AAAI被拒很难受",
+          "url": "https://www.xiaohongshu.com/explore/6ab62c7a000000001b02d08b"
+        },
+        {
+          "id": "6aa9084d000000002a02eeaa",
+          "title": "第一次被指控学术不端，天塌了",
+          "url": "https://www.xiaohongshu.com/explore/6aa9084d000000002a02eeaa"
+        },
+        {
+          "id": "6a44aa8a0000000006021eaa",
+          "title": "A社封杀了几乎所有中国公司，唯独没有腾讯",
+          "url": "https://www.xiaohongshu.com/explore/6a44aa8a0000000006021eaa"
+        },
+        {
+          "id": "6a8a3feb000000002202144d",
+          "title": "智能体轨迹错误归因: 表示和方法分类",
+          "url": "https://www.xiaohongshu.com/explore/6a8a3feb000000002202144d"
+        },
+        {
+          "id": "6a7ae47100000000240267ba",
+          "title": "请教一下各位AAAI论文标准",
+          "url": "https://www.xiaohongshu.com/explore/6a7ae47100000000240267ba"
+        }
+      ]
+    },
+    {
+      "query": "agent abstention ICLR",
+      "sort": "综合",
+      "results": [
+        {
+          "id": "6ac3be36000000001a031de8",
+          "title": "还有人类吗？被6w+ ICLR投稿冲击之后…",
+          "url": "https://www.xiaohongshu.com/explore/6ac3be36000000001a031de8"
+        },
+        {
+          "id": "6ad5ac14000000003100927e",
+          "title": "ICLR desk reject 没招了",
+          "url": "https://www.xiaohongshu.com/explore/6ad5ac14000000003100927e"
+        },
+        {
+          "id": "6ac1860b0000000015012683",
+          "title": "心软审稿人：审完ICLR了，质量两极分化（建议）",
+          "url": "https://www.xiaohongshu.com/explore/6ac1860b0000000015012683"
+        },
+        {
+          "id": "6ad8e614000000002c034bcd",
+          "title": "NeurIPS撞车",
+          "url": "https://www.xiaohongshu.com/explore/6ad8e614000000002c034bcd"
+        },
+        {
+          "id": "6ac65d6f0000000002012e02",
+          "title": "iclr2027大分类",
+          "url": "https://www.xiaohongshu.com/explore/6ac65d6f0000000002012e02"
+        },
+        {
+          "id": "6ad63c33000000002701641b",
+          "title": "ICLR审了6篇稿子人均2-30页appendix",
+          "url": "https://www.xiaohongshu.com/explore/6ad63c33000000002701641b"
+        },
+        {
+          "id": "6ac1cd16000000000a0208f6",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/6ac1cd16000000000a0208f6"
+        },
+        {
+          "id": "6ad23211000000001b01eaf4",
+          "title": "今年iclr的战况怎么样",
+          "url": "https://www.xiaohongshu.com/explore/6ad23211000000001b01eaf4"
+        },
+        {
+          "id": "6ad9d3fd000000002b00dfeb",
+          "title": "ICLR 2027 评审完毕，32211",
+          "url": "https://www.xiaohongshu.com/explore/6ad9d3fd000000002b00dfeb"
+        },
+        {
+          "id": "6ad9db25000000002c011407",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/6ad9db25000000002c011407"
+        },
+        {
+          "id": "6ac7ce49000000001b030bd1",
+          "title": "今天审稿刚拒了一个！",
+          "url": "https://www.xiaohongshu.com/explore/6ac7ce49000000001b030bd1"
+        },
+        {
+          "id": "6aca478b0000000018005c15",
+          "title": "ICLR审完啦",
+          "url": "https://www.xiaohongshu.com/explore/6aca478b0000000018005c15"
+        },
+        {
+          "id": "6a802b80000000002701d716",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/6a802b80000000002701d716"
+        },
+        {
+          "id": "6ad82a7e000000002c025a62",
+          "title": "现在arxiv on hold率好高啊",
+          "url": "https://www.xiaohongshu.com/explore/6ad82a7e000000002c025a62"
+        },
+        {
+          "id": "6adbb1750000000013033800",
+          "title": "ICLR 2027 AC统计",
+          "url": "https://www.xiaohongshu.com/explore/6adbb1750000000013033800"
+        },
+        {
+          "id": "6a076e0f000000003601d284",
+          "title": "ICLR 2026 多智能体 专题 趋势发展 (102篇)",
+          "url": "https://www.xiaohongshu.com/explore/6a076e0f000000003601d284"
+        },
+        {
+          "id": "6adf110d000000000e037ce8",
+          "title": "佛系找2个学生做VLA Agent方向",
+          "url": "https://www.xiaohongshu.com/explore/6adf110d000000000e037ce8"
+        },
+        {
+          "id": "6ad5c1df000000002900c48f",
+          "title": "ICLR'27审稿完成",
+          "url": "https://www.xiaohongshu.com/explore/6ad5c1df000000002900c48f"
+        },
+        {
+          "id": "6ad1f603000000001a029efc",
+          "title": "误审理论文章",
+          "url": "https://www.xiaohongshu.com/explore/6ad1f603000000001a029efc"
+        },
+        {
+          "id": "6ac1e6a60000000015002a23",
+          "title": "ICLR看着人多，实际很多是气氛组",
+          "url": "https://www.xiaohongshu.com/explore/6ac1e6a60000000015002a23"
+        }
+      ]
+    },
+    {
+      "query": "agent 求助 不确定性",
+      "sort": "综合",
+      "results": [
+        {
+          "id": "6a1edf3b000000000603498b",
+          "title": "Agent 遇到不确定情况怎么办？",
+          "url": "https://www.xiaohongshu.com/explore/6a1edf3b000000000603498b"
+        },
+        {
+          "id": "6a9c7ef500000000270145e7",
+          "title": "Agent自我进化论文泛滥了，求推荐和避雷论文",
+          "url": "https://www.xiaohongshu.com/explore/6a9c7ef500000000270145e7"
+        },
+        {
+          "id": "6a4cd4fc0000000006030b9b",
+          "title": "ICML 2026 大量LLMs相关Insights总结（一）",
+          "url": "https://www.xiaohongshu.com/explore/6a4cd4fc0000000006030b9b"
+        },
+        {
+          "id": "6ad38b4c000000001a021f28",
+          "title": "Agent开始自己改自己了",
+          "url": "https://www.xiaohongshu.com/explore/6ad38b4c000000001a021f28"
+        },
+        {
+          "id": "6adcc40e00000000250205d3",
+          "title": "做什么到底做什么啊啊啊啊啊啊",
+          "url": "https://www.xiaohongshu.com/explore/6adcc40e00000000250205d3"
+        },
+        {
+          "id": "6ad8e614000000002c034bcd",
+          "title": "NeurIPS撞车",
+          "url": "https://www.xiaohongshu.com/explore/6ad8e614000000002c034bcd"
+        },
+        {
+          "id": "6ad5c236000000002f032d3b",
+          "title": "大科研时代，研究生多Agent高效科研上岸指北",
+          "url": "https://www.xiaohongshu.com/explore/6ad5c236000000002f032d3b"
+        },
+        {
+          "id": "6abea6e3000000000e03f000",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/6abea6e3000000000e03f000"
+        },
+        {
+          "id": "6ad788080000000028024555",
+          "title": "后训练/AgentRL算法项目求拷打👊",
+          "url": "https://www.xiaohongshu.com/explore/6ad788080000000028024555"
+        },
+        {
+          "id": "6a159aa80000000035027199",
+          "title": "LLM&Agent算法面经之八股总结（全）",
+          "url": "https://www.xiaohongshu.com/explore/6a159aa80000000035027199"
+        },
+        {
+          "id": "6aceede50000000012037780",
+          "title": "3K 条轨迹，凭什么打赢 49 万条",
+          "url": "https://www.xiaohongshu.com/explore/6aceede50000000012037780"
+        },
+        {
+          "id": "6abf70ea0000000014001382",
+          "title": "大家好我是MSRA高级研究员杨一帆",
+          "url": "https://www.xiaohongshu.com/explore/6abf70ea0000000014001382"
+        },
+        {
+          "id": "6ac781e5000000000100bce3",
+          "title": "想向大家求助近期Agent的热点是什么？",
+          "url": "https://www.xiaohongshu.com/explore/6ac781e5000000000100bce3"
+        },
+        {
+          "id": "6ab0a02f000000001001f16c",
+          "title": "一上午面了3个Agent开发，大部分只会搭Demo",
+          "url": "https://www.xiaohongshu.com/explore/6ab0a02f000000001001f16c"
+        },
+        {
+          "id": "6aa40e62000000002b0259ba",
+          "title": "分享一下最近看的agent harness的文章",
+          "url": "https://www.xiaohongshu.com/explore/6aa40e62000000002b0259ba"
+        },
+        {
+          "id": "6ad78c1c000000002802506a",
+          "title": "分享一下共一发的运筹 Agent bench🥳",
+          "url": "https://www.xiaohongshu.com/explore/6ad78c1c000000002802506a"
+        },
+        {
+          "id": "6a1ef9950000000037037926",
+          "title": "继ICLR-Oral后的ICML新作：Agent信息自锁",
+          "url": "https://www.xiaohongshu.com/explore/6a1ef9950000000037037926"
+        },
+        {
+          "id": "6a8cfddb0000000010020973",
+          "title": "在找idea的过程中疯狂和近几周的文章撞车（",
+          "url": "https://www.xiaohongshu.com/explore/6a8cfddb0000000010020973"
+        },
+        {
+          "id": "6ab51f8f000000001a032ae4",
+          "title": "Agent开发三周实习速成路线",
+          "url": "https://www.xiaohongshu.com/explore/6ab51f8f000000001a032ae4"
+        },
+        {
+          "id": "6acad5dc000000000d02b423",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/6acad5dc000000000d02b423"
+        }
+      ]
+    },
+    {
+      "query": "abstention 失败",
+      "sort": "综合",
+      "results": [
+        {
+          "id": "69d099d2000000001a027445",
+          "title": "Answering the Wrong Question",
+          "url": "https://www.xiaohongshu.com/explore/69d099d2000000001a027445"
+        },
+        {
+          "id": "6a9b3c20000000002802a3c6",
+          "title": "记录如何解封的gpt账号",
+          "url": "https://www.xiaohongshu.com/explore/6a9b3c20000000002802a3c6"
+        },
+        {
+          "id": "6ad8e614000000002c034bcd",
+          "title": "NeurIPS撞车",
+          "url": "https://www.xiaohongshu.com/explore/6ad8e614000000002c034bcd"
+        },
+        {
+          "id": "6acda1d0000000000b005231",
+          "title": "智能体要会说不",
+          "url": "https://www.xiaohongshu.com/explore/6acda1d0000000000b005231"
+        },
+        {
+          "id": "6a97b1fe00000000280027e4",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/6a97b1fe00000000280027e4"
+        },
+        {
+          "id": "6aac1acb000000002802f7aa",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/6aac1acb000000002802f7aa"
+        },
+        {
+          "id": "6ab5c685000000001303ce45",
+          "title": "本科生勇闯ccfa成功坠机",
+          "url": "https://www.xiaohongshu.com/explore/6ab5c685000000001303ce45"
+        },
+        {
+          "id": "6acde4db000000001203d5af",
+          "title": "HERA: harness和环境协同优化智能体弃权",
+          "url": "https://www.xiaohongshu.com/explore/6acde4db000000001203d5af"
+        },
+        {
+          "id": "690e9c44000000000703b921",
+          "title": "不会再投AAAI😁",
+          "url": "https://www.xiaohongshu.com/explore/690e9c44000000000703b921"
+        },
+        {
+          "id": "6ab605590000000018017fc0",
+          "title": "aaai 2027第二轮 10进4",
+          "url": "https://www.xiaohongshu.com/explore/6ab605590000000018017fc0"
+        },
+        {
+          "id": "6ab62c7a000000001b02d08b",
+          "title": "为什么AAAI被拒很难受",
+          "url": "https://www.xiaohongshu.com/explore/6ab62c7a000000001b02d08b"
+        },
+        {
+          "id": "695903ce000000002103e3f6",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/695903ce000000002103e3f6"
+        },
+        {
+          "id": "6a488dfd0000000011007f56",
+          "title": "智能体何时该停手并承认任务不可完成",
+          "url": "https://www.xiaohongshu.com/explore/6a488dfd0000000011007f56"
+        },
+        {
+          "id": "6a2532dd000000001702bd1e",
+          "title": "喜提4连desk reject",
+          "url": "https://www.xiaohongshu.com/explore/6a2532dd000000001702bd1e"
+        },
+        {
+          "id": "6ab5dc8c000000001c00ca2b",
+          "title": "AAAI2027 审稿论文4过2",
+          "url": "https://www.xiaohongshu.com/explore/6ab5dc8c000000001c00ca2b"
+        },
+        {
+          "id": "69f8c72e00000000220276b2",
+          "title": "这8篇真的推荐看看",
+          "url": "https://www.xiaohongshu.com/explore/69f8c72e00000000220276b2"
+        },
+        {
+          "id": "6a81b34b000000002202cc7b",
+          "title": "Agentic RL reward不收敛",
+          "url": "https://www.xiaohongshu.com/explore/6a81b34b000000002202cc7b"
+        },
+        {
+          "id": "69fc73190000000036033a31",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/69fc73190000000036033a31"
+        },
+        {
+          "id": "6ad76ca2000000002803cc06",
+          "title": "你的Agent也在原地死循环吗？🌀",
+          "url": "https://www.xiaohongshu.com/explore/6ad76ca2000000002803cc06"
+        },
+        {
+          "id": "6ac71aa8000000001801aa58",
+          "title": "AAAI 2027二阶Rebuttal官方指南及注意事项",
+          "url": "https://www.xiaohongshu.com/explore/6ac71aa8000000001801aa58"
+        }
+      ]
+    }
+  ]
+}
